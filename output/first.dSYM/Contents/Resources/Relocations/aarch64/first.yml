@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sakethreddypingili/Projects/Netflix1/output/first'
+relocations:     []
+...
